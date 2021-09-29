@@ -1,0 +1,8 @@
+export const SHOW_ALERT = 'SHOW_ALERT'
+export const HIDE_ALERTS = 'HIDE_ALERTS'
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const ADD_PRODUCT = 'ADD_PRODUCT'
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS'
+export const FETCH_PRODUCTS_BY_ID = 'FETCH_PRODUCTS_BY_ID'
+export const REMOVE_PRODUCT = 'REMOVE_PRODUCT'
