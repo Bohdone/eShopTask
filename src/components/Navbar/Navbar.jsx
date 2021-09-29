@@ -39,7 +39,7 @@ const Navbar = ({auth}) => {
             <div className={'btnWrapper'}>
                 {user ?
                     <li className="nav-item">
-                        <button onClick={() => auth.signOut()} type="button" className="btn btn-info">UnLogin</button>
+                        <button onClick={() => auth.signOut()} type="button" className="btn btn-info">Logout</button>
                     </li>
                     :
                     <li className="nav-item">
